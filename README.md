@@ -1,2 +1,2 @@
 # OSJHW
-My homeworks in Java studying
+My homeworks in Java cognizing.
